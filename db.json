@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Leo",
+      "email": "correo123@correo.com",
+      "telefono": "43252355",
+      "empresa": "Heladitos S.A",
+      "id": 26
+    },
+    {
+      "nombre": "Alessandro",
+      "email": "admin@email.com",
+      "telefono": "87654321",
+      "empresa": "Microsoft",
+      "id": 27
+    }
+  ]
+}
